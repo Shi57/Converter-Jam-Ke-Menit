@@ -15,7 +15,5 @@ python convert.py
 3. Masukkan angka yang ingin dikonversi dari jam ke menit.
 
 4. Program akan menampilkan hasil konversi dalam menit.
- 
-# Lisensi
 
-Program ini dilisensikan di bawah lisensi MIT. Silakan melihat berkas LICENSE untuk informasi lebih lanjut.
+
