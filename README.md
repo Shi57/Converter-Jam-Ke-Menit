@@ -10,7 +10,6 @@ pip install colorama
 
 2. Jalankan program dengan mengetikkan perintah berikut di terminal atau command prompt:
 
-[Salin](https://github.com/username/repo.git){.btn .btn-outline}
 
 python convert.py
 
