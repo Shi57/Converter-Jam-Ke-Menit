@@ -11,3 +11,7 @@ pip install colorama
 2. Jalankan program dengan mengetikkan perintah berikut di terminal atau command prompt:
 
 python convert.py
+
+3. Masukkan angka yang ingin dikonversi dari jam ke menit.
+
+4. Program akan menampilkan hasil konversi dalam menit.
