@@ -8,6 +8,32 @@ Program sederhana ini adalah contoh konversi jam ke menit menggunakan bahasa pem
 
 pip install colorama
 
+<button onclick="copyToClipboard('example')">Salin</button>
+
+<script>
+
+function copyToClipboard(elementId) {
+
+  var element = document.getElementById(elementId);
+
+  var elementText = element.textContent || element.innerText;
+
+  var tempInput = document.createElement('input');
+
+  tempInput.value = elementText;
+
+  document.body.appendChild(tempInput);
+
+  tempInput.select();
+
+  document.execCommand('copy');
+
+  document.body.removeChild(tempInput);
+
+}
+
+</script>
+
 2. Jalankan program dengan mengetikkan perintah berikut di terminal atau command prompt:
 
 python convert.py
