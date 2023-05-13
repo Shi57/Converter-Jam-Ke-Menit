@@ -1,9 +1,8 @@
-# Konversi-Jam-ke-Menit-dengan-Python
-Konversi Jam ke Menit dengan Python
+# Konversi Jam ke Menit dengan Python
 
 Program sederhana ini adalah contoh konversi jam ke menit menggunakan bahasa pemrograman Python. Program ini menggunakan library colorama untuk memberikan warna pada output hasil konversi.
 
-Cara Penggunaan
+#Cara Penggunaan
 
 1. Pastikan sudah terinstall library colorama. Jika belum, install dengan menggunakan perintah berikut di terminal atau command prompt:
 
@@ -17,6 +16,6 @@ python convert.py
 
 4. Program akan menampilkan hasil konversi dalam menit.
  
-Lisensi
+#Lisensi
 
 Program ini dilisensikan di bawah lisensi MIT. Silakan melihat berkas LICENSE untuk informasi lebih lanjut.
